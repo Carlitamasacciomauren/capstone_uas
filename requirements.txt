@@ -6,3 +6,9 @@ joblib==1.3.0
 imbalanced-learn==0.10.1
 seaborn==0.13.0
 matplotlib==3.8.0
+
+# Tambahkan agar tidak terjadi konflik
+pygments==2.15.1
+mdurl==0.1.2
+markdown-it-py==3.0.0
+rich==14.0.0
